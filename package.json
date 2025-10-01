@@ -1,5 +1,5 @@
 {
-  "name": "react-classy",
+  "name": "component-factory",
   "version": "0.1.0",
   "description": "A tiny utility for building organized shorthand React components with Tailwind and clsx.",
   "keywords": [
